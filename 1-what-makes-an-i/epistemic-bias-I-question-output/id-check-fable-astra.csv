@@ -1,0 +1,17 @@
+model,item_id,group,item_name,model_answer_line
+claude-fable-5-1,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,A | Advaita Vedanta (Shankara) | high
+claude-fable-5-1,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),"B | Anil Seth (interoceptive predictive processing, with Metzinger-style transparency) | medium"
+claude-fable-5-1,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),"C | Michael Gazzaniga (left-hemisphere ""interpreter"") | high"
+claude-fable-5-1,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,D | Yogācāra Buddhism (ālaya-vijñāna and kliṣṭa-manas) | high
+claude-fable-5-1,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)","E | Dan Zahavi / Husserlian phenomenology (minimal self, retention–protention) | high"
+claude-fable-5-1,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,"F | Sam Harris (Waking Up) – possibly Ramana Maharshi's ""I-thought"" | medium"
+claude-fable-5-1,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",G | Daniel Dennett (self as narrative center of gravity) | high
+claude-fable-5-1,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,"H | Early Buddhism / Pali Canon (five aggregates, Khemaka Sutta's residual ""I am"") | high"
+gpt-6-astra,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",A | Daniel Dennett’s narrative self / “center of narrative gravity” | high
+gpt-6-astra,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),"B | Predictive-processing accounts of embodied selfhood (Anil Seth), combined with Thomas Metzinger’s transparent self-model | medium"
+gpt-6-astra,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,"C | Early Buddhist analysis of the five aggregates, appropriation, and the conceit “I am” | high"
+gpt-6-astra,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,"D | Advaita Vedānta: witness-consciousness, ahaṃkāra, and superimposition | high"
+gpt-6-astra,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,E | Yogācāra Buddhism: storehouse consciousness (ālayavijñāna) and afflicted mind (kliṣṭamanas) | high
+gpt-6-astra,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),"F | Michael Gazzaniga’s left-hemisphere interpreter theory, overstated here as the self’s exclusive source | medium"
+gpt-6-astra,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,"G | Cannot confidently identify; resembles an “I-thought” account, but is not securely attributable to a particular tradition or thinker | low"
+gpt-6-astra,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)","H | Phenomenology of prereflective self-awareness and temporal consciousness: Husserl, developed by Dan Zahavi | high"

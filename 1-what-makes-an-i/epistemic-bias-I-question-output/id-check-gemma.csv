@@ -1,0 +1,9 @@
+model,item_id,group,item_name,model_answer_line
+gemma-4-31b-it,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,A | Advaita Vedanta | High
+gemma-4-31b-it,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),B | Anil Seth | High
+gemma-4-31b-it,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),C | Michael Gazzaniga | High
+gemma-4-31b-it,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,D | Abhidhamma | High
+gemma-4-31b-it,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",E | Phenomenology (Husserl) | High
+gemma-4-31b-it,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,F | Vipassana | Medium
+gemma-4-31b-it,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",G | Daniel Dennett | High
+gemma-4-31b-it,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,H | Buddhism (Five Aggregates) | High

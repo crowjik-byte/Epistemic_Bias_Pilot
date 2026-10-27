@@ -1,0 +1,481 @@
+run_id,model,condition,position,letter,item_id,group,item_name,rating
+claude-fable-5-1|plain|05,claude-fable-5-1,plain,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),4
+claude-fable-5-1|plain|05,claude-fable-5-1,plain,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|05,claude-fable-5-1,plain,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|plain|05,claude-fable-5-1,plain,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,5
+claude-fable-5-1|plain|05,claude-fable-5-1,plain,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,4
+claude-fable-5-1|plain|05,claude-fable-5-1,plain,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|05,claude-fable-5-1,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|05,claude-fable-5-1,plain,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+gpt-6-astra|attributed|03,gpt-6-astra,attributed,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|03,gpt-6-astra,attributed,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|03,gpt-6-astra,attributed,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|03,gpt-6-astra,attributed,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|03,gpt-6-astra,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|03,gpt-6-astra,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|03,gpt-6-astra,attributed,7,G,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|03,gpt-6-astra,attributed,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|08,gpt-6-astra,attributed,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|08,gpt-6-astra,attributed,2,B,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|08,gpt-6-astra,attributed,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|attributed|08,gpt-6-astra,attributed,4,D,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|08,gpt-6-astra,attributed,5,E,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|08,gpt-6-astra,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|08,gpt-6-astra,attributed,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|08,gpt-6-astra,attributed,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|07,gpt-6-astra,plain,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|07,gpt-6-astra,plain,2,B,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|plain|07,gpt-6-astra,plain,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|07,gpt-6-astra,plain,4,D,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|07,gpt-6-astra,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|plain|07,gpt-6-astra,plain,6,F,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|07,gpt-6-astra,plain,7,G,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|07,gpt-6-astra,plain,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|plain|05,gpt-6-astra,plain,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|05,gpt-6-astra,plain,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|05,gpt-6-astra,plain,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|05,gpt-6-astra,plain,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|plain|05,gpt-6-astra,plain,5,E,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|05,gpt-6-astra,plain,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|plain|05,gpt-6-astra,plain,7,G,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|plain|05,gpt-6-astra,plain,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|13,gpt-6-astra,plain,1,A,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|13,gpt-6-astra,plain,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|13,gpt-6-astra,plain,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,3
+gpt-6-astra|plain|13,gpt-6-astra,plain,4,D,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|13,gpt-6-astra,plain,5,E,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|13,gpt-6-astra,plain,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|plain|13,gpt-6-astra,plain,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|13,gpt-6-astra,plain,8,H,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|12,claude-fable-5-1,plain,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),4
+claude-fable-5-1|plain|12,claude-fable-5-1,plain,2,B,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|plain|12,claude-fable-5-1,plain,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|12,claude-fable-5-1,plain,4,D,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|plain|12,claude-fable-5-1,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,5
+claude-fable-5-1|plain|12,claude-fable-5-1,plain,6,F,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|plain|12,claude-fable-5-1,plain,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|12,claude-fable-5-1,plain,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|attributed|13,claude-fable-5-1,attributed,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|13,claude-fable-5-1,attributed,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|13,claude-fable-5-1,attributed,3,C,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|13,claude-fable-5-1,attributed,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|attributed|13,claude-fable-5-1,attributed,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|13,claude-fable-5-1,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|13,claude-fable-5-1,attributed,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|13,claude-fable-5-1,attributed,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|07,claude-fable-5-1,attributed,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|07,claude-fable-5-1,attributed,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|attributed|07,claude-fable-5-1,attributed,3,C,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|attributed|07,claude-fable-5-1,attributed,4,D,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|attributed|07,claude-fable-5-1,attributed,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|attributed|07,claude-fable-5-1,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|07,claude-fable-5-1,attributed,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|07,claude-fable-5-1,attributed,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|01,gpt-6-astra,attributed,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|attributed|01,gpt-6-astra,attributed,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|01,gpt-6-astra,attributed,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|01,gpt-6-astra,attributed,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|01,gpt-6-astra,attributed,5,E,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|01,gpt-6-astra,attributed,6,F,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|01,gpt-6-astra,attributed,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|01,gpt-6-astra,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|09,gpt-6-astra,plain,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),4
+gpt-6-astra|plain|09,gpt-6-astra,plain,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|09,gpt-6-astra,plain,3,C,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|09,gpt-6-astra,plain,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,3
+gpt-6-astra|plain|09,gpt-6-astra,plain,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|09,gpt-6-astra,plain,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|plain|09,gpt-6-astra,plain,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|plain|09,gpt-6-astra,plain,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|02,gpt-6-astra,attributed,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|02,gpt-6-astra,attributed,2,B,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|attributed|02,gpt-6-astra,attributed,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|02,gpt-6-astra,attributed,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|02,gpt-6-astra,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|02,gpt-6-astra,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|02,gpt-6-astra,attributed,7,G,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|02,gpt-6-astra,attributed,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|08,claude-fable-5-1,plain,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|08,claude-fable-5-1,plain,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|08,claude-fable-5-1,plain,3,C,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|08,claude-fable-5-1,plain,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|plain|08,claude-fable-5-1,plain,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,3
+claude-fable-5-1|plain|08,claude-fable-5-1,plain,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,4
+claude-fable-5-1|plain|08,claude-fable-5-1,plain,7,G,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|08,claude-fable-5-1,plain,8,H,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,5
+gpt-6-astra|attributed|11,gpt-6-astra,attributed,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|11,gpt-6-astra,attributed,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|11,gpt-6-astra,attributed,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|11,gpt-6-astra,attributed,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|11,gpt-6-astra,attributed,5,E,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|11,gpt-6-astra,attributed,6,F,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|11,gpt-6-astra,attributed,7,G,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|11,gpt-6-astra,attributed,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|10,gpt-6-astra,attributed,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|10,gpt-6-astra,attributed,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|10,gpt-6-astra,attributed,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|attributed|10,gpt-6-astra,attributed,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|10,gpt-6-astra,attributed,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|10,gpt-6-astra,attributed,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|10,gpt-6-astra,attributed,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|10,gpt-6-astra,attributed,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|09,gpt-6-astra,attributed,1,A,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|attributed|09,gpt-6-astra,attributed,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|09,gpt-6-astra,attributed,3,C,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|09,gpt-6-astra,attributed,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|09,gpt-6-astra,attributed,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|09,gpt-6-astra,attributed,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|attributed|09,gpt-6-astra,attributed,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|09,gpt-6-astra,attributed,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|09,claude-fable-5-1,attributed,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|attributed|09,claude-fable-5-1,attributed,2,B,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|09,claude-fable-5-1,attributed,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|attributed|09,claude-fable-5-1,attributed,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|09,claude-fable-5-1,attributed,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|09,claude-fable-5-1,attributed,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|attributed|09,claude-fable-5-1,attributed,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|09,claude-fable-5-1,attributed,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,2
+gpt-6-astra|attributed|14,gpt-6-astra,attributed,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|14,gpt-6-astra,attributed,2,B,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|attributed|14,gpt-6-astra,attributed,3,C,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|14,gpt-6-astra,attributed,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|14,gpt-6-astra,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|attributed|14,gpt-6-astra,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|14,gpt-6-astra,attributed,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|14,gpt-6-astra,attributed,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|06,claude-fable-5-1,attributed,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|attributed|06,claude-fable-5-1,attributed,2,B,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|06,claude-fable-5-1,attributed,3,C,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|06,claude-fable-5-1,attributed,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|06,claude-fable-5-1,attributed,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|06,claude-fable-5-1,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|06,claude-fable-5-1,attributed,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|06,claude-fable-5-1,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|plain|11,claude-fable-5-1,plain,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|11,claude-fable-5-1,plain,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|plain|11,claude-fable-5-1,plain,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|11,claude-fable-5-1,plain,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|plain|11,claude-fable-5-1,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,5
+claude-fable-5-1|plain|11,claude-fable-5-1,plain,6,F,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|11,claude-fable-5-1,plain,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|11,claude-fable-5-1,plain,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,3
+gpt-6-astra|attributed|04,gpt-6-astra,attributed,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|04,gpt-6-astra,attributed,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|04,gpt-6-astra,attributed,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|04,gpt-6-astra,attributed,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|04,gpt-6-astra,attributed,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|04,gpt-6-astra,attributed,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|04,gpt-6-astra,attributed,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|04,gpt-6-astra,attributed,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|plain|03,gpt-6-astra,plain,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|plain|03,gpt-6-astra,plain,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|03,gpt-6-astra,plain,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|03,gpt-6-astra,plain,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|plain|03,gpt-6-astra,plain,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|03,gpt-6-astra,plain,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|03,gpt-6-astra,plain,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|03,gpt-6-astra,plain,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|plain|04,gpt-6-astra,plain,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|plain|04,gpt-6-astra,plain,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|04,gpt-6-astra,plain,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|04,gpt-6-astra,plain,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|plain|04,gpt-6-astra,plain,5,E,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|04,gpt-6-astra,plain,6,F,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|plain|04,gpt-6-astra,plain,7,G,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|04,gpt-6-astra,plain,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|14,gpt-6-astra,plain,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|plain|14,gpt-6-astra,plain,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|plain|14,gpt-6-astra,plain,3,C,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|14,gpt-6-astra,plain,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|14,gpt-6-astra,plain,5,E,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|14,gpt-6-astra,plain,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|14,gpt-6-astra,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|14,gpt-6-astra,plain,8,H,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|plain|06,gpt-6-astra,plain,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gpt-6-astra|plain|06,gpt-6-astra,plain,2,B,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|06,gpt-6-astra,plain,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|plain|06,gpt-6-astra,plain,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|06,gpt-6-astra,plain,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|06,gpt-6-astra,plain,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|06,gpt-6-astra,plain,7,G,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|plain|06,gpt-6-astra,plain,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|05,claude-fable-5-1,attributed,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|05,claude-fable-5-1,attributed,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|attributed|05,claude-fable-5-1,attributed,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|05,claude-fable-5-1,attributed,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|05,claude-fable-5-1,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|05,claude-fable-5-1,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,2
+claude-fable-5-1|attributed|05,claude-fable-5-1,attributed,7,G,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|05,claude-fable-5-1,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|01,gpt-6-astra,plain,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),4
+gpt-6-astra|plain|01,gpt-6-astra,plain,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|01,gpt-6-astra,plain,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|plain|01,gpt-6-astra,plain,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|01,gpt-6-astra,plain,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|plain|01,gpt-6-astra,plain,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|plain|01,gpt-6-astra,plain,7,G,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|01,gpt-6-astra,plain,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|plain|15,claude-fable-5-1,plain,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|plain|15,claude-fable-5-1,plain,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|plain|15,claude-fable-5-1,plain,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|15,claude-fable-5-1,plain,4,D,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|plain|15,claude-fable-5-1,plain,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|15,claude-fable-5-1,plain,6,F,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|15,claude-fable-5-1,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",4
+claude-fable-5-1|plain|15,claude-fable-5-1,plain,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|attributed|12,claude-fable-5-1,attributed,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|12,claude-fable-5-1,attributed,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|12,claude-fable-5-1,attributed,3,C,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|attributed|12,claude-fable-5-1,attributed,4,D,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|12,claude-fable-5-1,attributed,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|attributed|12,claude-fable-5-1,attributed,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|12,claude-fable-5-1,attributed,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|12,claude-fable-5-1,attributed,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|plain|09,claude-fable-5-1,plain,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|plain|09,claude-fable-5-1,plain,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|plain|09,claude-fable-5-1,plain,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|09,claude-fable-5-1,plain,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|plain|09,claude-fable-5-1,plain,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|09,claude-fable-5-1,plain,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|09,claude-fable-5-1,plain,7,G,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|09,claude-fable-5-1,plain,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+gpt-6-astra|attributed|05,gpt-6-astra,attributed,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|05,gpt-6-astra,attributed,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|05,gpt-6-astra,attributed,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|05,gpt-6-astra,attributed,4,D,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|05,gpt-6-astra,attributed,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|05,gpt-6-astra,attributed,6,F,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|05,gpt-6-astra,attributed,7,G,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|05,gpt-6-astra,attributed,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|attributed|14,claude-fable-5-1,attributed,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|14,claude-fable-5-1,attributed,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|attributed|14,claude-fable-5-1,attributed,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|attributed|14,claude-fable-5-1,attributed,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|14,claude-fable-5-1,attributed,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,2
+claude-fable-5-1|attributed|14,claude-fable-5-1,attributed,6,F,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|14,claude-fable-5-1,attributed,7,G,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|attributed|14,claude-fable-5-1,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+gpt-6-astra|plain|08,gpt-6-astra,plain,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|plain|08,gpt-6-astra,plain,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|08,gpt-6-astra,plain,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|08,gpt-6-astra,plain,4,D,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|plain|08,gpt-6-astra,plain,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|plain|08,gpt-6-astra,plain,6,F,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|08,gpt-6-astra,plain,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|08,gpt-6-astra,plain,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|plain|13,claude-fable-5-1,plain,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),4
+claude-fable-5-1|plain|13,claude-fable-5-1,plain,2,B,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|plain|13,claude-fable-5-1,plain,3,C,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|13,claude-fable-5-1,plain,4,D,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|plain|13,claude-fable-5-1,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|13,claude-fable-5-1,plain,6,F,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|13,claude-fable-5-1,plain,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|13,claude-fable-5-1,plain,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|attributed|03,claude-fable-5-1,attributed,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|03,claude-fable-5-1,attributed,2,B,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|03,claude-fable-5-1,attributed,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|03,claude-fable-5-1,attributed,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|03,claude-fable-5-1,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|03,claude-fable-5-1,attributed,6,F,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|03,claude-fable-5-1,attributed,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|03,claude-fable-5-1,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|08,claude-fable-5-1,attributed,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|08,claude-fable-5-1,attributed,2,B,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|08,claude-fable-5-1,attributed,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),4
+claude-fable-5-1|attributed|08,claude-fable-5-1,attributed,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|08,claude-fable-5-1,attributed,5,E,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|08,claude-fable-5-1,attributed,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|08,claude-fable-5-1,attributed,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|08,claude-fable-5-1,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|04,claude-fable-5-1,attributed,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),4
+claude-fable-5-1|attributed|04,claude-fable-5-1,attributed,2,B,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|04,claude-fable-5-1,attributed,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|04,claude-fable-5-1,attributed,4,D,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|04,claude-fable-5-1,attributed,5,E,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|04,claude-fable-5-1,attributed,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|04,claude-fable-5-1,attributed,7,G,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|04,claude-fable-5-1,attributed,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|plain|02,claude-fable-5-1,plain,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|plain|02,claude-fable-5-1,plain,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|plain|02,claude-fable-5-1,plain,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|02,claude-fable-5-1,plain,4,D,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|02,claude-fable-5-1,plain,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|02,claude-fable-5-1,plain,6,F,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,3
+claude-fable-5-1|plain|02,claude-fable-5-1,plain,7,G,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|02,claude-fable-5-1,plain,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+gpt-6-astra|plain|12,gpt-6-astra,plain,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|plain|12,gpt-6-astra,plain,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|plain|12,gpt-6-astra,plain,3,C,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|12,gpt-6-astra,plain,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|plain|12,gpt-6-astra,plain,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|12,gpt-6-astra,plain,6,F,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|12,gpt-6-astra,plain,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|12,gpt-6-astra,plain,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|06,claude-fable-5-1,plain,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|plain|06,claude-fable-5-1,plain,2,B,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),4
+claude-fable-5-1|plain|06,claude-fable-5-1,plain,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|06,claude-fable-5-1,plain,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|plain|06,claude-fable-5-1,plain,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|06,claude-fable-5-1,plain,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|06,claude-fable-5-1,plain,7,G,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,5
+claude-fable-5-1|plain|06,claude-fable-5-1,plain,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|attributed|12,gpt-6-astra,attributed,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|12,gpt-6-astra,attributed,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|12,gpt-6-astra,attributed,3,C,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|12,gpt-6-astra,attributed,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|12,gpt-6-astra,attributed,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|12,gpt-6-astra,attributed,6,F,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|12,gpt-6-astra,attributed,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|12,gpt-6-astra,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|10,claude-fable-5-1,attributed,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|10,claude-fable-5-1,attributed,2,B,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),4
+claude-fable-5-1|attributed|10,claude-fable-5-1,attributed,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|attributed|10,claude-fable-5-1,attributed,4,D,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|10,claude-fable-5-1,attributed,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|10,claude-fable-5-1,attributed,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|10,claude-fable-5-1,attributed,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|10,claude-fable-5-1,attributed,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|plain|14,claude-fable-5-1,plain,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|14,claude-fable-5-1,plain,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|14,claude-fable-5-1,plain,3,C,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|plain|14,claude-fable-5-1,plain,4,D,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|14,claude-fable-5-1,plain,5,E,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|14,claude-fable-5-1,plain,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|14,claude-fable-5-1,plain,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|plain|14,claude-fable-5-1,plain,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|02,claude-fable-5-1,attributed,1,A,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+claude-fable-5-1|attributed|02,claude-fable-5-1,attributed,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|02,claude-fable-5-1,attributed,3,C,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|02,claude-fable-5-1,attributed,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|02,claude-fable-5-1,attributed,5,E,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|attributed|02,claude-fable-5-1,attributed,6,F,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|02,claude-fable-5-1,attributed,7,G,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|02,claude-fable-5-1,attributed,8,H,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|13,gpt-6-astra,attributed,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|13,gpt-6-astra,attributed,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|13,gpt-6-astra,attributed,3,C,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|attributed|13,gpt-6-astra,attributed,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|13,gpt-6-astra,attributed,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|attributed|13,gpt-6-astra,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|13,gpt-6-astra,attributed,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|13,gpt-6-astra,attributed,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|plain|01,claude-fable-5-1,plain,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|plain|01,claude-fable-5-1,plain,2,B,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|01,claude-fable-5-1,plain,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|01,claude-fable-5-1,plain,4,D,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|plain|01,claude-fable-5-1,plain,5,E,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|01,claude-fable-5-1,plain,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),5
+claude-fable-5-1|plain|01,claude-fable-5-1,plain,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|01,claude-fable-5-1,plain,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|attributed|01,claude-fable-5-1,attributed,1,A,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|01,claude-fable-5-1,attributed,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|01,claude-fable-5-1,attributed,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|attributed|01,claude-fable-5-1,attributed,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|01,claude-fable-5-1,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|01,claude-fable-5-1,attributed,6,F,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|01,claude-fable-5-1,attributed,7,G,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|01,claude-fable-5-1,attributed,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|plain|10,gpt-6-astra,plain,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|plain|10,gpt-6-astra,plain,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|10,gpt-6-astra,plain,3,C,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|10,gpt-6-astra,plain,4,D,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|10,gpt-6-astra,plain,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|10,gpt-6-astra,plain,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|plain|10,gpt-6-astra,plain,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|10,gpt-6-astra,plain,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|plain|02,gpt-6-astra,plain,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|plain|02,gpt-6-astra,plain,2,B,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|02,gpt-6-astra,plain,3,C,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|02,gpt-6-astra,plain,4,D,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|02,gpt-6-astra,plain,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|plain|02,gpt-6-astra,plain,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|02,gpt-6-astra,plain,7,G,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|plain|02,gpt-6-astra,plain,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|plain|11,gpt-6-astra,plain,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|11,gpt-6-astra,plain,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|plain|11,gpt-6-astra,plain,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|plain|11,gpt-6-astra,plain,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|11,gpt-6-astra,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|plain|11,gpt-6-astra,plain,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|11,gpt-6-astra,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|plain|11,gpt-6-astra,plain,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|03,claude-fable-5-1,plain,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|plain|03,claude-fable-5-1,plain,2,B,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|03,claude-fable-5-1,plain,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,3
+claude-fable-5-1|plain|03,claude-fable-5-1,plain,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|plain|03,claude-fable-5-1,plain,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|03,claude-fable-5-1,plain,6,F,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|03,claude-fable-5-1,plain,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,4
+claude-fable-5-1|plain|03,claude-fable-5-1,plain,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|06,gpt-6-astra,attributed,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gpt-6-astra|attributed|06,gpt-6-astra,attributed,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|attributed|06,gpt-6-astra,attributed,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|06,gpt-6-astra,attributed,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|06,gpt-6-astra,attributed,5,E,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|06,gpt-6-astra,attributed,6,F,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|06,gpt-6-astra,attributed,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|06,gpt-6-astra,attributed,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|plain|04,claude-fable-5-1,plain,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|plain|04,claude-fable-5-1,plain,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|plain|04,claude-fable-5-1,plain,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|04,claude-fable-5-1,plain,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|04,claude-fable-5-1,plain,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|plain|04,claude-fable-5-1,plain,6,F,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|04,claude-fable-5-1,plain,7,G,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|plain|04,claude-fable-5-1,plain,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|15,gpt-6-astra,attributed,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|15,gpt-6-astra,attributed,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|15,gpt-6-astra,attributed,3,C,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|15,gpt-6-astra,attributed,4,D,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|attributed|15,gpt-6-astra,attributed,5,E,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|15,gpt-6-astra,attributed,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|15,gpt-6-astra,attributed,7,G,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|15,gpt-6-astra,attributed,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|07,gpt-6-astra,attributed,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|attributed|07,gpt-6-astra,attributed,2,B,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|attributed|07,gpt-6-astra,attributed,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|attributed|07,gpt-6-astra,attributed,4,D,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+gpt-6-astra|attributed|07,gpt-6-astra,attributed,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gpt-6-astra|attributed|07,gpt-6-astra,attributed,6,F,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|attributed|07,gpt-6-astra,attributed,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gpt-6-astra|attributed|07,gpt-6-astra,attributed,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gpt-6-astra|plain|15,gpt-6-astra,plain,1,A,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gpt-6-astra|plain|15,gpt-6-astra,plain,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gpt-6-astra|plain|15,gpt-6-astra,plain,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gpt-6-astra|plain|15,gpt-6-astra,plain,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gpt-6-astra|plain|15,gpt-6-astra,plain,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gpt-6-astra|plain|15,gpt-6-astra,plain,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gpt-6-astra|plain|15,gpt-6-astra,plain,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+gpt-6-astra|plain|15,gpt-6-astra,plain,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|attributed|11,claude-fable-5-1,attributed,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|11,claude-fable-5-1,attributed,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+claude-fable-5-1|attributed|11,claude-fable-5-1,attributed,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|attributed|11,claude-fable-5-1,attributed,4,D,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|attributed|11,claude-fable-5-1,attributed,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|11,claude-fable-5-1,attributed,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|11,claude-fable-5-1,attributed,7,G,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|11,claude-fable-5-1,attributed,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|attributed|15,claude-fable-5-1,attributed,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+claude-fable-5-1|attributed|15,claude-fable-5-1,attributed,2,B,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|attributed|15,claude-fable-5-1,attributed,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|attributed|15,claude-fable-5-1,attributed,4,D,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|attributed|15,claude-fable-5-1,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+claude-fable-5-1|attributed|15,claude-fable-5-1,attributed,6,F,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|attributed|15,claude-fable-5-1,attributed,7,G,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+claude-fable-5-1|attributed|15,claude-fable-5-1,attributed,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|07,claude-fable-5-1,plain,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+claude-fable-5-1|plain|07,claude-fable-5-1,plain,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|07,claude-fable-5-1,plain,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3
+claude-fable-5-1|plain|07,claude-fable-5-1,plain,4,D,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|07,claude-fable-5-1,plain,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|plain|07,claude-fable-5-1,plain,6,F,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|plain|07,claude-fable-5-1,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",5
+claude-fable-5-1|plain|07,claude-fable-5-1,plain,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+claude-fable-5-1|plain|10,claude-fable-5-1,plain,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+claude-fable-5-1|plain|10,claude-fable-5-1,plain,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),6
+claude-fable-5-1|plain|10,claude-fable-5-1,plain,3,C,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+claude-fable-5-1|plain|10,claude-fable-5-1,plain,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+claude-fable-5-1|plain|10,claude-fable-5-1,plain,5,E,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+claude-fable-5-1|plain|10,claude-fable-5-1,plain,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,5
+claude-fable-5-1|plain|10,claude-fable-5-1,plain,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,3
+claude-fable-5-1|plain|10,claude-fable-5-1,plain,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),3

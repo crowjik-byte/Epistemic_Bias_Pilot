@@ -1,0 +1,241 @@
+run_id,model,condition,position,letter,item_id,group,item_name,rating
+gemma-4-31b-it|plain|09,gemma-4-31b-it,plain,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|09,gemma-4-31b-it,plain,2,B,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|plain|09,gemma-4-31b-it,plain,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|09,gemma-4-31b-it,plain,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|plain|09,gemma-4-31b-it,plain,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|09,gemma-4-31b-it,plain,6,F,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|09,gemma-4-31b-it,plain,7,G,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|09,gemma-4-31b-it,plain,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|plain|14,gemma-4-31b-it,plain,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|14,gemma-4-31b-it,plain,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|14,gemma-4-31b-it,plain,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|plain|14,gemma-4-31b-it,plain,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|14,gemma-4-31b-it,plain,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|14,gemma-4-31b-it,plain,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|plain|14,gemma-4-31b-it,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|14,gemma-4-31b-it,plain,8,H,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|02,gemma-4-31b-it,attributed,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|02,gemma-4-31b-it,attributed,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|attributed|02,gemma-4-31b-it,attributed,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),6
+gemma-4-31b-it|attributed|02,gemma-4-31b-it,attributed,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|02,gemma-4-31b-it,attributed,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,5
+gemma-4-31b-it|attributed|02,gemma-4-31b-it,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gemma-4-31b-it|attributed|02,gemma-4-31b-it,attributed,7,G,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,3
+gemma-4-31b-it|attributed|02,gemma-4-31b-it,attributed,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gemma-4-31b-it|attributed|04,gemma-4-31b-it,attributed,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|04,gemma-4-31b-it,attributed,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|04,gemma-4-31b-it,attributed,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gemma-4-31b-it|attributed|04,gemma-4-31b-it,attributed,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),6
+gemma-4-31b-it|attributed|04,gemma-4-31b-it,attributed,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,5
+gemma-4-31b-it|attributed|04,gemma-4-31b-it,attributed,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,4
+gemma-4-31b-it|attributed|04,gemma-4-31b-it,attributed,7,G,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|04,gemma-4-31b-it,attributed,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,5
+gemma-4-31b-it|attributed|07,gemma-4-31b-it,attributed,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gemma-4-31b-it|attributed|07,gemma-4-31b-it,attributed,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|07,gemma-4-31b-it,attributed,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),6
+gemma-4-31b-it|attributed|07,gemma-4-31b-it,attributed,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|07,gemma-4-31b-it,attributed,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|attributed|07,gemma-4-31b-it,attributed,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|attributed|07,gemma-4-31b-it,attributed,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|07,gemma-4-31b-it,attributed,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,5
+gemma-4-31b-it|plain|06,gemma-4-31b-it,plain,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|plain|06,gemma-4-31b-it,plain,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,5
+gemma-4-31b-it|plain|06,gemma-4-31b-it,plain,3,C,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|06,gemma-4-31b-it,plain,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|plain|06,gemma-4-31b-it,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|plain|06,gemma-4-31b-it,plain,6,F,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|06,gemma-4-31b-it,plain,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|06,gemma-4-31b-it,plain,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|15,gemma-4-31b-it,attributed,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|15,gemma-4-31b-it,attributed,2,B,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|attributed|15,gemma-4-31b-it,attributed,3,C,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|15,gemma-4-31b-it,attributed,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),6
+gemma-4-31b-it|attributed|15,gemma-4-31b-it,attributed,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gemma-4-31b-it|attributed|15,gemma-4-31b-it,attributed,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|15,gemma-4-31b-it,attributed,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|attributed|15,gemma-4-31b-it,attributed,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|01,gemma-4-31b-it,plain,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|01,gemma-4-31b-it,plain,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,7
+gemma-4-31b-it|plain|01,gemma-4-31b-it,plain,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|01,gemma-4-31b-it,plain,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gemma-4-31b-it|plain|01,gemma-4-31b-it,plain,5,E,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|01,gemma-4-31b-it,plain,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,7
+gemma-4-31b-it|plain|01,gemma-4-31b-it,plain,7,G,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,7
+gemma-4-31b-it|plain|01,gemma-4-31b-it,plain,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|05,gemma-4-31b-it,attributed,1,A,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|attributed|05,gemma-4-31b-it,attributed,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|05,gemma-4-31b-it,attributed,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|attributed|05,gemma-4-31b-it,attributed,4,D,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gemma-4-31b-it|attributed|05,gemma-4-31b-it,attributed,5,E,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|05,gemma-4-31b-it,attributed,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|attributed|05,gemma-4-31b-it,attributed,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),6
+gemma-4-31b-it|attributed|05,gemma-4-31b-it,attributed,8,H,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|plain|05,gemma-4-31b-it,plain,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|05,gemma-4-31b-it,plain,2,B,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|plain|05,gemma-4-31b-it,plain,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|05,gemma-4-31b-it,plain,4,D,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|plain|05,gemma-4-31b-it,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|plain|05,gemma-4-31b-it,plain,6,F,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|05,gemma-4-31b-it,plain,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|05,gemma-4-31b-it,plain,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|12,gemma-4-31b-it,plain,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|plain|12,gemma-4-31b-it,plain,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|plain|12,gemma-4-31b-it,plain,3,C,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|12,gemma-4-31b-it,plain,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gemma-4-31b-it|plain|12,gemma-4-31b-it,plain,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|12,gemma-4-31b-it,plain,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|12,gemma-4-31b-it,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|12,gemma-4-31b-it,plain,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|attributed|12,gemma-4-31b-it,attributed,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|12,gemma-4-31b-it,attributed,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|12,gemma-4-31b-it,attributed,3,C,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|12,gemma-4-31b-it,attributed,4,D,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|attributed|12,gemma-4-31b-it,attributed,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gemma-4-31b-it|attributed|12,gemma-4-31b-it,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,5
+gemma-4-31b-it|attributed|12,gemma-4-31b-it,attributed,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|12,gemma-4-31b-it,attributed,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),6
+gemma-4-31b-it|attributed|14,gemma-4-31b-it,attributed,1,A,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gemma-4-31b-it|attributed|14,gemma-4-31b-it,attributed,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gemma-4-31b-it|attributed|14,gemma-4-31b-it,attributed,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|attributed|14,gemma-4-31b-it,attributed,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|14,gemma-4-31b-it,attributed,5,E,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|attributed|14,gemma-4-31b-it,attributed,6,F,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|14,gemma-4-31b-it,attributed,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|attributed|14,gemma-4-31b-it,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|03,gemma-4-31b-it,attributed,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|attributed|03,gemma-4-31b-it,attributed,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|03,gemma-4-31b-it,attributed,3,C,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|attributed|03,gemma-4-31b-it,attributed,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gemma-4-31b-it|attributed|03,gemma-4-31b-it,attributed,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|03,gemma-4-31b-it,attributed,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|03,gemma-4-31b-it,attributed,7,G,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|attributed|03,gemma-4-31b-it,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|02,gemma-4-31b-it,plain,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|02,gemma-4-31b-it,plain,2,B,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|plain|02,gemma-4-31b-it,plain,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|plain|02,gemma-4-31b-it,plain,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|02,gemma-4-31b-it,plain,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|plain|02,gemma-4-31b-it,plain,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|02,gemma-4-31b-it,plain,7,G,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|02,gemma-4-31b-it,plain,8,H,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|07,gemma-4-31b-it,plain,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|07,gemma-4-31b-it,plain,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|07,gemma-4-31b-it,plain,3,C,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|07,gemma-4-31b-it,plain,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|07,gemma-4-31b-it,plain,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gemma-4-31b-it|plain|07,gemma-4-31b-it,plain,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|plain|07,gemma-4-31b-it,plain,7,G,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|07,gemma-4-31b-it,plain,8,H,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|plain|13,gemma-4-31b-it,plain,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,7
+gemma-4-31b-it|plain|13,gemma-4-31b-it,plain,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,7
+gemma-4-31b-it|plain|13,gemma-4-31b-it,plain,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|13,gemma-4-31b-it,plain,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gemma-4-31b-it|plain|13,gemma-4-31b-it,plain,5,E,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|13,gemma-4-31b-it,plain,6,F,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|13,gemma-4-31b-it,plain,7,G,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,7
+gemma-4-31b-it|plain|13,gemma-4-31b-it,plain,8,H,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|01,gemma-4-31b-it,attributed,1,A,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|01,gemma-4-31b-it,attributed,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|attributed|01,gemma-4-31b-it,attributed,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|01,gemma-4-31b-it,attributed,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|attributed|01,gemma-4-31b-it,attributed,5,E,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|attributed|01,gemma-4-31b-it,attributed,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|01,gemma-4-31b-it,attributed,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,4
+gemma-4-31b-it|attributed|01,gemma-4-31b-it,attributed,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|10,gemma-4-31b-it,plain,1,A,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|10,gemma-4-31b-it,plain,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",6
+gemma-4-31b-it|plain|10,gemma-4-31b-it,plain,3,C,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|10,gemma-4-31b-it,plain,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+gemma-4-31b-it|plain|10,gemma-4-31b-it,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,5
+gemma-4-31b-it|plain|10,gemma-4-31b-it,plain,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|plain|10,gemma-4-31b-it,plain,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|10,gemma-4-31b-it,plain,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gemma-4-31b-it|plain|11,gemma-4-31b-it,plain,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|11,gemma-4-31b-it,plain,2,B,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|11,gemma-4-31b-it,plain,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,3
+gemma-4-31b-it|plain|11,gemma-4-31b-it,plain,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",6
+gemma-4-31b-it|plain|11,gemma-4-31b-it,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,4
+gemma-4-31b-it|plain|11,gemma-4-31b-it,plain,6,F,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,3
+gemma-4-31b-it|plain|11,gemma-4-31b-it,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|11,gemma-4-31b-it,plain,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|attributed|09,gemma-4-31b-it,attributed,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|09,gemma-4-31b-it,attributed,2,B,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gemma-4-31b-it|attributed|09,gemma-4-31b-it,attributed,3,C,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|09,gemma-4-31b-it,attributed,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|09,gemma-4-31b-it,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,7
+gemma-4-31b-it|attributed|09,gemma-4-31b-it,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|attributed|09,gemma-4-31b-it,attributed,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|attributed|09,gemma-4-31b-it,attributed,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,6
+gemma-4-31b-it|plain|03,gemma-4-31b-it,plain,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|03,gemma-4-31b-it,plain,2,B,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|plain|03,gemma-4-31b-it,plain,3,C,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|plain|03,gemma-4-31b-it,plain,4,D,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|03,gemma-4-31b-it,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|plain|03,gemma-4-31b-it,plain,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|03,gemma-4-31b-it,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|03,gemma-4-31b-it,plain,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|10,gemma-4-31b-it,attributed,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|10,gemma-4-31b-it,attributed,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|attributed|10,gemma-4-31b-it,attributed,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),6
+gemma-4-31b-it|attributed|10,gemma-4-31b-it,attributed,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|10,gemma-4-31b-it,attributed,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|10,gemma-4-31b-it,attributed,6,F,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|10,gemma-4-31b-it,attributed,7,G,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,5
+gemma-4-31b-it|attributed|10,gemma-4-31b-it,attributed,8,H,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,5
+gemma-4-31b-it|plain|08,gemma-4-31b-it,plain,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,6
+gemma-4-31b-it|plain|08,gemma-4-31b-it,plain,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|plain|08,gemma-4-31b-it,plain,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|08,gemma-4-31b-it,plain,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|08,gemma-4-31b-it,plain,5,E,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|plain|08,gemma-4-31b-it,plain,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|08,gemma-4-31b-it,plain,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|08,gemma-4-31b-it,plain,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|04,gemma-4-31b-it,plain,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,6
+gemma-4-31b-it|plain|04,gemma-4-31b-it,plain,2,B,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|04,gemma-4-31b-it,plain,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|04,gemma-4-31b-it,plain,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gemma-4-31b-it|plain|04,gemma-4-31b-it,plain,5,E,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|04,gemma-4-31b-it,plain,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|plain|04,gemma-4-31b-it,plain,7,G,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|04,gemma-4-31b-it,plain,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|plain|15,gemma-4-31b-it,plain,1,A,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,7
+gemma-4-31b-it|plain|15,gemma-4-31b-it,plain,2,B,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|plain|15,gemma-4-31b-it,plain,3,C,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|plain|15,gemma-4-31b-it,plain,4,D,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,7
+gemma-4-31b-it|plain|15,gemma-4-31b-it,plain,5,E,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|plain|15,gemma-4-31b-it,plain,6,F,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,7
+gemma-4-31b-it|plain|15,gemma-4-31b-it,plain,7,G,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|plain|15,gemma-4-31b-it,plain,8,H,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,7
+gemma-4-31b-it|attributed|06,gemma-4-31b-it,attributed,1,A,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,6
+gemma-4-31b-it|attributed|06,gemma-4-31b-it,attributed,2,B,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|attributed|06,gemma-4-31b-it,attributed,3,C,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|06,gemma-4-31b-it,attributed,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|06,gemma-4-31b-it,attributed,5,E,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),6
+gemma-4-31b-it|attributed|06,gemma-4-31b-it,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,5
+gemma-4-31b-it|attributed|06,gemma-4-31b-it,attributed,7,G,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|06,gemma-4-31b-it,attributed,8,H,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|08,gemma-4-31b-it,attributed,1,A,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|08,gemma-4-31b-it,attributed,2,B,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|attributed|08,gemma-4-31b-it,attributed,3,C,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|08,gemma-4-31b-it,attributed,4,D,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|08,gemma-4-31b-it,attributed,5,E,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,5
+gemma-4-31b-it|attributed|08,gemma-4-31b-it,attributed,6,F,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|08,gemma-4-31b-it,attributed,7,G,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gemma-4-31b-it|attributed|08,gemma-4-31b-it,attributed,8,H,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,6
+gemma-4-31b-it|attributed|11,gemma-4-31b-it,attributed,1,A,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|11,gemma-4-31b-it,attributed,2,B,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
+gemma-4-31b-it|attributed|11,gemma-4-31b-it,attributed,3,C,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|attributed|11,gemma-4-31b-it,attributed,4,D,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,4
+gemma-4-31b-it|attributed|11,gemma-4-31b-it,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,5
+gemma-4-31b-it|attributed|11,gemma-4-31b-it,attributed,6,F,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,5
+gemma-4-31b-it|attributed|11,gemma-4-31b-it,attributed,7,G,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|11,gemma-4-31b-it,attributed,8,H,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|13,gemma-4-31b-it,attributed,1,A,07-interpreter-control,control,Left-hemisphere interpreter account (drawing on split-brain research),7
+gemma-4-31b-it|attributed|13,gemma-4-31b-it,attributed,2,B,08-thought-control,control,Contemporary secular mindfulness account of the I as recurrent thought,6
+gemma-4-31b-it|attributed|13,gemma-4-31b-it,attributed,3,C,06-advaita,contemplative,Advaita Vedānta account of ahaṃkāra and ātman,3
+gemma-4-31b-it|attributed|13,gemma-4-31b-it,attributed,4,D,01-predictive-selfmodel,academic,Predictive processing and self-model theory (drawing on Seth and Metzinger),7
+gemma-4-31b-it|attributed|13,gemma-4-31b-it,attributed,5,E,05-yogacara,contemplative,Yogācāra Buddhist account of manas and the store-consciousness,4
+gemma-4-31b-it|attributed|13,gemma-4-31b-it,attributed,6,F,04-theravada,contemplative,Theravāda Buddhist analysis of I-making and mine-making,6
+gemma-4-31b-it|attributed|13,gemma-4-31b-it,attributed,7,G,02-minimal-self,academic,"Phenomenology of the minimal self (Husserl, Zahavi)",7
+gemma-4-31b-it|attributed|13,gemma-4-31b-it,attributed,8,H,03-narrative-self,academic,"Narrative self (Dennett, ""center of narrative gravity"")",7
